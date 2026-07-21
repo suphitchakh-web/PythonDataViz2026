@@ -78,5 +78,6 @@ Class period 20 Histogram - Radar Chart: https://youtu.be/Vjn0VJ1XRHE
 Class period 21 Dashboard with Google Data Studio: https://youtu.be/62KBS5krz8M 
 
 
-#More videos from class of 2022
+# More videos from class of 2022
+
 https://youtube.com/playlist?list=PLEeOkFCKOJSxfKe1omA3QlsMulPZGay6U&si=mFSfz6qO3VRYux6q
