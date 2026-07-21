@@ -8,8 +8,11 @@ Basic Programming for Data Scientists and Data Visualization [Course Repository]
 by Assistance Professor Dr.Thanapong Intharah (personal webpage)
 
 #Link Google Colab
-Class period 1: https://colab.research.google.com/github/tohnperfect/data_viz/blob/main/Python101.ipynb \n
-Class period 2, 3: https://colab.research.google.com/github/tohnperfect/data_viz/blob/main/Function_Loop_Condition.ipynb \n
+
+Class period 1: https://colab.research.google.com/github/tohnperfect/data_viz/blob/main/Python101.ipynb 
+
+Class period 2, 3: https://colab.research.google.com/github/tohnperfect/data_viz/blob/main/Function_Loop_Condition.ipynb
+
 Class period 4, 5: https://github.com/tohnperfect/data_viz/blob/main/More_advanced_data_structure.ipynb \n
 Class period 6, 7, 8: https://github.com/tohnperfect/data_viz/blob/main/Pandas_101.ipynb \n
 Class period 9, 10: https://github.com/tohnperfect/data_viz/blob/main/Pandas102.ipynb \n
