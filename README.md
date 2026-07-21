@@ -8,7 +8,7 @@ Basic Programming for Data Scientists and Data Visualization [Course Repository]
 
 by Assistance Professor Dr.Thanapong Intharah (personal webpage)
 
-## Link Google Colab
+### Link Google Colab
 
 Class period 1: https://colab.research.google.com/github/tohnperfect/data_viz/blob/main/Python101.ipynb 
 
@@ -35,7 +35,7 @@ Class period 19, 20: https://github.com/tohnperfect/data_viz/blob/main/Visualize
 Chapter 8: https://github.com/tanpharamut/data_viz/blob/main/Chapter8_Timeline_Chart_Candlestick_Chart_CSD.ipynb 
 
 
-## Link instructional video
+### Link instructional video
 Class period 1 Basic python: https://youtu.be/A74LfXUuWUU 
 
 Class period 2 Function-Loop: https://youtu.be/b3_mqAe2g4o
@@ -79,6 +79,6 @@ Class period 20 Histogram - Radar Chart: https://youtu.be/Vjn0VJ1XRHE
 Class period 21 Dashboard with Google Data Studio: https://youtu.be/62KBS5krz8M 
 
 
-## More videos from class of 2022
+### More videos from class of 2022
 
 https://youtube.com/playlist?list=PLEeOkFCKOJSxfKe1omA3QlsMulPZGay6U&si=mFSfz6qO3VRYux6q
